@@ -1,0 +1,8 @@
+{
+  "upstream": "https://github.com/Gathin23/cleanyourtv.git",
+  "branches": ["main", "maintainer-bot-live"],
+  "primary": "main",
+  "mode": "merge",
+  "syncTags": true,
+  "note": "branches 列出要跟随上游同步的全部分支。mode=merge 保留你自己的改动并与上游合并；mode=mirror 直接硬覆盖为上游最新。"
+}
